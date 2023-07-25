@@ -1,0 +1,19 @@
+{
+  "name": "cdp-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "'https://github.com/AdrianoidCz/CDP-Cypress.git/'"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.2",
+    "@faker-js/faker": "8.0.2"
+  }
+}
